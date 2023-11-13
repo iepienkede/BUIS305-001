@@ -1,0 +1,14 @@
+number1=input("-12")
+number2=input("8")
+print(number1,number2)
+sum=int(number1)+int(number2)
+print(sum)
+difference=int(number1)-int(number2)
+multiplication=int(number1)*int(number2)
+division=int(number1)/int(number2)
+print(difference,multiplication,division)
+number3=input("-4")
+sum=number1+number2+number3
+difference=number1-number2-number3
+multiplication=number1*number2*number3
+division=(int(number1))/int(number2)/int(number3)
